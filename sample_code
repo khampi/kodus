@@ -1,6 +1,6 @@
 import requests, json, time, os
 
-API_URL = "https://example.com/api/data"
+API_URL = "https://example.com/api/dataa"
 API_KEY = "123456"  # Hardcoded secret (bad practice)
 
 def getData():
